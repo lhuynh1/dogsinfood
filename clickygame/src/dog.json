@@ -1,0 +1,77 @@
+[
+    {
+      "id": 1,
+      "clicked": false,
+      "image": "cookie.PNG"
+    },
+    {
+      "id": 2,
+      "clicked": false,
+      "image": "cros.PNG"    
+    },
+    {
+      "id": 3,
+      "clicked": false,
+      "image": "egg.PNG"
+    },
+    {
+      "id": 4,
+      "clicked": false,
+      "image": "french.PNG" 
+    },
+    {
+      "id": 5,
+      "clicked": false,
+      "image": "fries.PNG"
+    },
+    {
+      "id": 6,
+      "clicked": false,
+      "image": "holes.PNG"
+    },
+    {
+      "id": 7,
+      "clicked": false,
+      "image": "ice.PNG"
+    },
+    {
+      "id": 8,
+      "clicked": false,
+      "image": "nug.PNG"
+    },
+    {
+      "id": 9,
+      "clicked": false,
+      "image": "pie.PNG"
+    },
+    {
+      "id": 10,
+      "clicked": false,
+      "image": "pom.PNG"
+    },
+    {
+      "id": 11,
+      "clicked": false,
+      "image": "pug.PNG"
+    },
+    {
+      "id": 12,
+      "clicked": false,
+      "image": "smoothie.PNG"
+    },
+    {
+        "id": 12,
+        "clicked": false,
+        "image": "bagel.PNG"
+    },
+    {
+        "id": 12,
+        "clicked": false,
+        "image": "blue.PNG"
+    },
+    {
+        "id": 12,
+        "clicked": false,
+        "image": "burger.PNG"
+    }
+  ]
