@@ -49,8 +49,8 @@ class GameSection extends Component {
         <div className="container-fluid">
             
             <div className="container">
-                <h1 className="text-center gameMsg">{this.state.msg}</h1>
-                <h3 className="text-center">Score: {this.state.score} | High score: {this.state.highScore}</h3>
+                <h1 className="text-center text-white gameMsg">{this.state.msg}</h1>
+                <h3 className="text-center text-white">Score: {this.state.score} | High score: {this.state.highScore}</h3>
 
                 <div className="row">
                 {this.state.img.map(img => (
