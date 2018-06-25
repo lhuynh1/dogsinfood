@@ -47,14 +47,11 @@ class GameSection extends Component {
     render() {
         return (
         <div className="container-fluid">
-            <nav className="navbar navbar fixed top navbar default">
-                <ul>
-                    <li className="text-center gameMsg">{this.state.msg}</li>
-                    <li className="text-right">Score: {this.state.score} | High score: {this.state.highScore}</li>
-                </ul>
-            </nav>
             
             <div className="container">
+                <h1 className="text-center gameMsg">{this.state.msg}</h1>
+                <h3 className="text-center">Score: {this.state.score} | High score: {this.state.highScore}</h3>
+
                 <div className="row">
                 {this.state.img.map(img => (
                     <DogCard
